@@ -65,13 +65,13 @@ header {
 	margin-left: 25px;
 }
 
-.content {
+#main {
 	width: 75%;
 	display: inline-block;
 	margin-left: 20px;
 }
 
-.benefits {
+#benefits {
 	margin-right: 20px;
 	padding: 20px;
 	clear: both;
@@ -82,30 +82,22 @@ header {
 	background-color: #2589bd;
 }
 
-.benefit-lead,
-.benefit-brand,
-.benefit-cost {
+.benefits-content {
 	margin-bottom: 32px;
 	color: #ffffff;
 }
 
-.benefit-lead h3,
-.benefit-brand h3,
-.benefit-cost h3 {
+.benefits-header {
 	margin-bottom: 10px;
 	text-align: center;
 }
 
-.benefit-lead img,
-.benefit-brand img,
-.benefit-cost img {
+.benefits-img {
 	display: block;
 	margin: 10px auto;
 	max-width: 150px;
 }
-.search-engine-optimization,
-.online-reputation-management,
-.social-media-marketing {
+.main-content {
 	margin-bottom: 20px;
 	padding: 50px;
 	height: 300px;
@@ -114,20 +106,16 @@ header {
 	color: #ffffff;
 }
 
-.search-engine-optimization img,
-.online-reputation-management img,
-.social-media-marketing img {
+.main-img {
 	max-height: 200px;
 }
 
-.search-engine-optimization h2,
-.online-reputation-management h2,
-.social-media-marketing h2 {
+.main-content-header {
 	margin-bottom: 20px;
 	font-size: 36px;
 }
 
-.footer {
+#footer {
 	padding: 30px;
 	clear: both;
 	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
@@ -135,6 +123,6 @@ header {
 	text-align: center;
 }
 
-.footer h2 {
+#footer h2 {
 	font-size: 20px;
 }
