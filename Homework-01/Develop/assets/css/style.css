@@ -16,16 +16,16 @@ header {
 	color: #ffffff;
 }
 
-header h1 {
+.nav-header {
 	display: inline-block;
 	font-size: 48px;
 }
 
-header h1 .seo {
+.seo {
 	color: #d9dcd6;
 }
 
-header nav {
+.nav-menu {
 	padding-top: 15px;
 	margin-right: 20px;
 	float: right;
@@ -33,25 +33,21 @@ header nav {
 	font-size: 20px;
 }
 
-header nav ul {
-	list-style-type: none;
+.nav-list {
+	list-style: none;
 }
 
-header nav ul li {
+.nav-item {
 	display: inline-block;
 	margin-left: 25px;
 }
 
-a {
+.nav-link {
 	color: #ffffff;
 	text-decoration: none;
 }
 
-p {
-	font-size: 16px;
-}
-
-.hero img {
+.hero-img {
 	height: 800px;
 	width: 100%;
 	margin-bottom: 25px;
