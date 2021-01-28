@@ -36,5 +36,5 @@ This was a homework assignment covering the semantics and accessibility of a web
 
   ## Badges
 
-  https://img.shields.io/github/languages/count/youngin9210/horiSEOn
-  https://img.shields.io/github/languages/top/Youngin9210/horiSEOn
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/youngin9210/horiSEOn">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/youngin9210/horiSEOn">
