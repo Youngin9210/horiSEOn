@@ -4,7 +4,7 @@ Week 1 Homework for OSU Bootcamp
 
 ## Description
 
-This was a homework assignment covering the semantics and accessibility of a webpage.
+This was a homework assignment covering that really helped me understand the semantics and accessibility of a webpage.
 
 ## Changes made to improve accessibility:
 
@@ -14,6 +14,10 @@ This was a homework assignment covering the semantics and accessibility of a web
   * **Ensured that all `<img>` elements have accessible alt attributes**
   * **Ensured all links work as expected**
   * **Organized and consolitdated CSS selectors to follow semantic structure**
+
+  ## Screenshot
+
+  ![image]()
 
   ## Table of Contents
 
