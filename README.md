@@ -4,7 +4,7 @@ Week 1 Homework for OSU Bootcamp
 
 ## Description
 
-This was a homework assignment covering that really helped me understand the semantics and accessibility of a webpage.
+The semantics and accessibility of a webpage are very important for those of us that 
 
 ## Changes made to improve accessibility:
 
