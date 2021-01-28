@@ -17,7 +17,7 @@ This was a homework assignment covering that really helped me understand the sem
 
   ## Screenshot
 
-  ![image]()
+  ![image](https://github.com/Youngin9210/horiSEOn/blob/master/assets/images/screenshot.png)
 
   ## Table of Contents
 
