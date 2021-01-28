@@ -32,7 +32,7 @@ This was a homework assignment covering the semantics and accessibility of a web
 
   ## License
 
-  https://img.shields.io/github/license/Youngin9210/horiSEOn
+  <img alt="GitHub" src="https://img.shields.io/github/license/youngin9210/horiSEOn">
 
   ## Badges
 
