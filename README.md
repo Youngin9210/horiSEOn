@@ -30,7 +30,7 @@ Check it out here https://youngin9210.github.io/horiSEOn/
 
   ## Installation
 
-  Using the terminal to clone the repository to your local device using SSH or HTTPS.  Once cloned, open repository in a text editor to make changes.
+  Using the terminal, clone the repository to your local device using SSH or HTTPS.  Once cloned, open repository in a text editor to make changes.
 
   ## Credits
 
