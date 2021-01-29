@@ -4,7 +4,9 @@ Week 1 Homework for OSU Bootcamp
 
 ## Description
 
-The semantics and accessibility of a webpage are very important for those of us that 
+The semantics and accessibility of a webpage are very important for those that need to use a screen reader to use a webpage.  The behind the scenes work of this assignment really help to understand how the accessibility and semantic structure of a site works.
+
+Check it out here https://youngin9210.github.io/horiSEOn/
 
 ## Changes made to improve accessibility:
 
@@ -28,7 +30,7 @@ The semantics and accessibility of a webpage are very important for those of us 
 
   ## Installation
 
-  Using the terminal, clone the repository to your local device using SSH or HTTPS.  Once cloned, open repository in a text editor to make changes.
+  Using the terminal to clone the repository to your local device using SSH or HTTPS.  Once cloned, open repository in a text editor to make changes.
 
   ## Credits
 
