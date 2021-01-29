@@ -1,5 +1,4 @@
-/* Global */
-
+/* Globally setting box-sizing, padding, and margin on all elements */
 * {
 	box-sizing: border-box;
 	padding: 0;
@@ -33,6 +32,7 @@ header {
 	color: #d9dcd6;
 }
 
+/* floating nav menu to the right side */
 .nav-menu {
 	padding-top: 15px;
 	margin-right: 20px;
@@ -41,10 +41,12 @@ header {
 	font-size: 20px;
 }
 
+/* taking bullets out off the list */
 .nav-list {
 	list-style: none;
 }
 
+/* setting nav links to inline-block to be listed horizontally */
 .nav-item {
 	display: inline-block;
 	margin-left: 25px;
@@ -56,7 +58,7 @@ header {
 }
 
 /* Main Site Image */
-
+/* setting the large image to cover 100% of the width */
 .hero-img {
 	height: 800px;
 	width: 100%;
@@ -73,15 +75,6 @@ header {
 	margin-left: 20px;
 }
 
-.float-left {
-	float: left;
-	margin-right: 25px;
-}
-.float-right {
-	float: right;
-	margin-left: 25px;
-}
-
 .main-content {
 	margin-bottom: 20px;
 	padding: 50px;
@@ -91,17 +84,31 @@ header {
 	color: #ffffff;
 }
 
+/* floating img left */
+.float-left {
+	float: left;
+	margin-right: 25px;
+}
+
+/* floating img right */
+.float-right {
+	float: right;
+	margin-left: 25px;
+}
+
+/* img max heigh to 200px */
 .main-img {
 	max-height: 200px;
 }
 
+/* setting header font-size to 36px and margin-bottom to 20px */
 .main-header {
 	margin-bottom: 20px;
 	font-size: 36px;
 }
 
 /* Aside Content (Benefits) */
-
+/* Clearing both floats and floating to the right of the page */
 #benefits {
 	margin-right: 20px;
 	padding: 20px;
@@ -130,7 +137,7 @@ header {
 }
 
 /* Footer */
-
+/* Cleared floats and centered */
 #footer {
 	padding: 30px;
 	clear: both;
